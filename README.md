@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410008** |
+| Nama Lengkap | **Anita Putri** |
 | Kelas | TI-4A |
